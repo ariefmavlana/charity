@@ -4,7 +4,7 @@ module.exports = {
             id: 1,
             title: 'First Company Project',
             category: 'Money',
-            thumbnail: 'https://live.staticflickr.com/65535/17121706878_aed6a3421c_t.jpg',
+            thumbnail: 'https://live.staticflickr.com/2784/4238877652_b56984c96b_h.jpg',
             pledged: 19550,
             target: 1000000,
             date_end: +new Date('10 August 2023'),
